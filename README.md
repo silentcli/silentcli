@@ -21,7 +21,7 @@ I'm a passionate DevOps Engineer specializing in **automating infrastructure**, 
 apiVersion: v1
 kind: DevOpsEngineer
 metadata:
-  name: Vivek
+  name: Vivek Harikumar
   location: Kochi,Kerala
 spec:
   role: DevOps Engineer
