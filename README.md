@@ -22,10 +22,10 @@ apiVersion: v1
 kind: DevOpsEngineer
 metadata:
   name: Vivek
-  location: Your Location
+  location: Kochi,Kerala
 spec:
   role: DevOps Engineer
-  experience: X+ years
+  experience: 4+ years
   focus:
     - Infrastructure Automation
     - CI/CD Pipeline Optimization
