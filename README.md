@@ -152,16 +152,6 @@ Complete observability solution with metrics, logs, and distributed tracing.
 - 🔍 Sub-second alert response time
 - 📊 Custom dashboards for business metrics
 
-## 📝 Recent Blog Posts & DevOps Notes
-
-<!-- BLOG-POST-LIST:START -->
-- 🔥 [Implementing GitOps with ArgoCD and Kubernetes](https://blog.example.com/gitops-argocd)
-- 🚀 [Zero-Downtime Deployments: Blue-Green vs Canary](https://blog.example.com/deployment-strategies)
-- 🔒 [Security Best Practices for Kubernetes Clusters](https://blog.example.com/k8s-security)
-- 📊 [Building a Cost-Effective Monitoring Stack with Open Source Tools](https://blog.example.com/monitoring-stack)
-- 🐳 [Optimizing Docker Images for Production](https://blog.example.com/docker-optimization)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🎯 Current Focus & Learning
 
 - 🌱 Exploring **GitOps** patterns with ArgoCD and Flux
@@ -187,7 +177,7 @@ done
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/vivek](https://www.linkedin.com/in/vivek-harikumar-2bb99679/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-harikumar-2bb99679/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silentcli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekh.harikumar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vivekharikumar.site)
